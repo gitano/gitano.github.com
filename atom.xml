@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My Blog]]></title>
   <link href="http://gitano.github.com/atom.xml" rel="self"/>
   <link href="http://gitano.github.com/"/>
-  <updated>2012-04-20T18:08:35+02:00</updated>
+  <updated>2012-04-23T14:34:03+02:00</updated>
   <id>http://gitano.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Gitano]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, world!]]></title>
+    <link href="http://gitano.github.com/blog/2012/04/23/hello-world/"/>
+    <updated>2012-04-23T14:27:00+02:00</updated>
+    <id>http://gitano.github.com/blog/2012/04/23/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello, world!</p>
+
+<!-- more -->
+
+
+<p>What else do you espect from a Hello, world!??</p>
+]]></content>
+  </entry>
   
 </feed>
